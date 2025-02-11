@@ -1,0 +1,3 @@
+0 Bujia en Buen Estado
+1 Bujia Recalentada
+2 Bujia Oxidada
